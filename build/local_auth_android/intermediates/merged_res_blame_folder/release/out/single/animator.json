@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/animator/fragment_close_exit.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/32098f5544c4b37124206fb44aa1fd21/fragment-1.5.2/res/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/animator/fragment_fade_enter.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/32098f5544c4b37124206fb44aa1fd21/fragment-1.5.2/res/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/animator/fragment_open_enter.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/32098f5544c4b37124206fb44aa1fd21/fragment-1.5.2/res/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/animator/fragment_open_exit.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/32098f5544c4b37124206fb44aa1fd21/fragment-1.5.2/res/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/animator/fragment_close_enter.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/32098f5544c4b37124206fb44aa1fd21/fragment-1.5.2/res/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/animator/fragment_fade_exit.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/32098f5544c4b37124206fb44aa1fd21/fragment-1.5.2/res/animator/fragment_fade_exit.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/1a7563ea88b6dae65bb6c203c7c4519c/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/1a7563ea88b6dae65bb6c203c7c4519c/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

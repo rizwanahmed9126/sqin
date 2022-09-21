@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/cd32daa9f0d8e94b828610251749497a/core-1.8.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/cd32daa9f0d8e94b828610251749497a/core-1.8.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/cd32daa9f0d8e94b828610251749497a/core-1.8.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/local_auth_android/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/cd32daa9f0d8e94b828610251749497a/core-1.8.0/res/layout-v21/notification_action.xml"
+    }
+]

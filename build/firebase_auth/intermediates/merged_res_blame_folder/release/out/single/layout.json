@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/firebase_auth/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/e5b37581e9a1e1a92e700ee035d69c4b/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/firebase_auth/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/e5b37581e9a1e1a92e700ee035d69c4b/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/firebase_auth/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/e5b37581e9a1e1a92e700ee035d69c4b/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/firebase_auth/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/e5b37581e9a1e1a92e700ee035d69c4b/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/firebase_auth/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/e5b37581e9a1e1a92e700ee035d69c4b/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/firebase_auth/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/e5b37581e9a1e1a92e700ee035d69c4b/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/firebase_auth/intermediates/res/merged/release/layout/browser_actions_context_menu_page.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/d29023a9ef221fd931146d8310c98ba0/browser-1.4.0/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/Users/rizwanahmed/Documents/sqin_task/build/firebase_auth/intermediates/res/merged/release/layout/browser_actions_context_menu_row.xml",
+        "source": "/Users/rizwanahmed/.gradle/caches/transforms-2/files-2.1/d29023a9ef221fd931146d8310c98ba0/browser-1.4.0/res/layout/browser_actions_context_menu_row.xml"
+    }
+]
